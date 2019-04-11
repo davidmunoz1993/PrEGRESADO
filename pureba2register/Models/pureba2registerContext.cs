@@ -19,6 +19,6 @@ namespace pureba2register.Models
         {
         }
 
-        
+        public System.Data.Entity.DbSet<pureba2register.Models.prueba> pruebas { get; set; }
     }
 }

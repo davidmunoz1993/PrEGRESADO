@@ -139,9 +139,6 @@ C:\Users\David\Desktop\proyectoEgresado\pureba2register\pureba2register\obj\Debu
 C:\Users\David\Desktop\proyectoEgresado\pureba2register\pureba2register\obj\Debug\pureba2register.dll
 C:\Users\David\Desktop\proyectoEgresado\pureba2register\pureba2register\obj\Debug\pureba2register.pdb
 C:\Users\David\Desktop\PREgresado\pureba2register\obj\Debug\pureba2register.csprojAssemblyReference.cache
-C:\Users\David\Desktop\PREgresado\pureba2register\obj\Debug\pureba2register.Migrations.agrego_columna_nacimiento.resources
-C:\Users\David\Desktop\PREgresado\pureba2register\obj\Debug\pureba2register.Migrations.AddRemaksField.resources
-C:\Users\David\Desktop\PREgresado\pureba2register\obj\Debug\pureba2register.csproj.GenerateResource.cache
 C:\Users\David\Desktop\PREgresado\pureba2register\obj\Debug\pureba2register.csproj.CoreCompileInputs.cache
 C:\Users\David\Desktop\PREgresado\pureba2register\obj\Debug\pureba2register.dll
 C:\Users\David\Desktop\PREgresado\pureba2register\obj\Debug\pureba2register.pdb
