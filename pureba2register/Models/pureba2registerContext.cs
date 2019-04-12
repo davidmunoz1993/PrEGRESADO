@@ -20,5 +20,27 @@ namespace pureba2register.Models
         }
 
         public System.Data.Entity.DbSet<pureba2register.Models.prueba> pruebas { get; set; }
+
+        public System.Data.Entity.DbSet<pureba2register.Models.InformacionPersonal> InformacionPersonals { get; set; }
+
+        public System.Data.Entity.DbSet<pureba2register.Models.ReferenciasPersonales> ReferenciasPersonales { get; set; }
+
+        public System.Data.Entity.DbSet<pureba2register.Models.ParentescoReferencia> ParentescoReferencias { get; set; }
+
+        public System.Data.Entity.DbSet<pureba2register.Models.TipoReferencia> TipoReferencias { get; set; }
+
+        public System.Data.Entity.DbSet<pureba2register.Models.TipoDocumento> TipoDocumentoes { get; set; }
+
+        public System.Data.Entity.DbSet<pureba2register.Models.InformacionProfesional> InformacionProfesionals { get; set; }
+
+        public System.Data.Entity.DbSet<pureba2register.Models.CarreraProfesional> CarreraProfesionals { get; set; }
+
+        public System.Data.Entity.DbSet<pureba2register.Models.TipoEstudio> TipoEstudios { get; set; }
+
+        public System.Data.Entity.DbSet<pureba2register.Models.PublicacionEgresado> PublicacionEgresadoes { get; set; }
+
+        public System.Data.Entity.DbSet<pureba2register.Models.InformacionLaboral> InformacionLaborals { get; set; }
+
+        public System.Data.Entity.DbSet<pureba2register.Models.RangoSalarial> RangoSalarials { get; set; }
     }
 }
